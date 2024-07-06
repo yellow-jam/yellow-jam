@@ -1,7 +1,10 @@
 <!--
 **yellow-jam/yellow-jam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
 ## 🧃 yellow-jam
+
+<div align=center>
 
 ### Language
 
@@ -24,12 +27,4 @@
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-
-### Overview
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yellow-jam&layout=compact)](https://github.com/yellow-jam/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yellow-jam&show_icons=true&theme=radical)
-
-<div align=center>
 </div>
